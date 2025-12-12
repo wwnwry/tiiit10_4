@@ -19,7 +19,7 @@ int main() {
     double avg = static_cast<double>(sum) / n;
 
     cout << "min = " << mn << endl;
-    cout < "max = " << mx << endl;
+    cout << "max = " << mx << endl;
     cout << "avg = " << avg << endl;
 
     return 0;
